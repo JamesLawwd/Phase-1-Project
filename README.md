@@ -1,5 +1,16 @@
-// Title
-DICTIONARY APP
+<!-- TITLE -->
+# DICTIONARY APP
+
+It is a English Dictionary
+
+# INTRODUCTION
+
+This is a Dictionary App .It is used by the user to get the meaning of words.It returns the meaning of the searched word together with the audio. if the user would wish to read and hear the audio of the meaning of the searched word. Incase if the search word is not available it will throw Word_NOT_FOUND.
+
+# DESCRIPTION
+
+
+
 
 
 
