@@ -17,38 +17,7 @@ The user can type a word that they would wish to get the meaning. The app would 
 Credits
 Technologies used include HTML,CSS and JAVASCRIPT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MIT License
+# MIT License
 
 Copyright (c) [2023] [James Kinyanjui]
 
