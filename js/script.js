@@ -1,3 +1,5 @@
+document.addEventListener(`DOMContentLoaded`, () =>{
+
 const input = document.getElementById('input');
 const searchBtn = document.getElementById('btn');
 const notFoundWord = document.querySelector('.cant_find_word');
@@ -32,7 +34,7 @@ async function getSearchedWord(searchedWord){
     }
 
     if (typeof data[0] === 'string'){ // if result is suggestion
-        let heading = document.createElement('h3');
+        let heading = document.createElement('h2');
         heading.innerText = 'Did you mean?';
         notFoundWord.appendChild(heading);
 
@@ -66,3 +68,5 @@ function getSound(soundName){
     audioSound.controls = true;
     audioBox.appendChild(audioSound);
 };
+
+})
