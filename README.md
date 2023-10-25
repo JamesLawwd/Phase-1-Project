@@ -8,7 +8,14 @@ It is a English Dictionary
 This is a Dictionary App .It is used by the user to get the meaning of words.It returns the meaning of the searched word together with the audio. if the user would wish to read and hear the audio of the meaning of the searched word. Incase if the search word is not available it will throw Word_NOT_FOUND.
 
 # DESCRIPTION
+This dictionary application is using the real-time data from the Google dictionary API with AUDIO-[LINK TO THE Call API]-
+(https://www.dictionaryapi.com/api/v3/references/learners/json/apple?key=your-api-key)
 
+# Functionality
+
+The user can type a word that they would wish to get the meaning. The app would give back the wsearched word meaning and give the audio of the word searched. if the word is not found in the dictionary then it will give the use the alternatives.
+Credits
+Technologies used include HTML,CSS and JAVASCRIPT
 
 
 
