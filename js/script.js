@@ -1,4 +1,4 @@
-document.addEventListener(`DOMContentLoaded`, () =>{
+document.addEventListener(`DOMContentLoaded`, () => {
 
 const input = document.getElementById('input');
 const searchBtn = document.getElementById('btn');
@@ -68,5 +68,6 @@ function getSound(soundName){
     audioSound.controls = true;
     audioBox.appendChild(audioSound);
 };
+
 
 })
